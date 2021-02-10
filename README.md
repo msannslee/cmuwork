@@ -20,6 +20,7 @@ My purpose for taking the course is to be able to find and gather data (data foc
 
 Mind the typos, this is what happens whenI dont have spell check. 
 
+[King County COVID Data](kingcountycovid.md)
 
 
 ##Test
