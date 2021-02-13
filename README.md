@@ -20,6 +20,8 @@ My purpose for taking the course is to be able to find and gather data (data foc
 
 Mind the typos, this is what happens whenI dont have spell check. 
 
+## My Visualizations
+
 [King County COVID Data](kingcountycovid.md)
 
 [Government Debt Data](/govdebt.md)
