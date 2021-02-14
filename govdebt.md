@@ -6,7 +6,7 @@
 ## Highlighted Countries
 <div class="flourish-embed flourish-chart" data-src="visualisation/5290969"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I wanted to zoom in on US, UK, Canada, Germany and Japan because they have high influence in the world. I wanted to also highlight India and China but the data wasnt available. The data was manipulated to show countries on the y-axis for a better comparison over time. The x-axis shows the years and I thought it was redundant to use the label the axis with the word year. Instead of including a legend, I incorpated the name of the countries on the lines themselves. I chose to highlight US in a dark color, and use faint colors for the other countries. I wanted to use all grey but then the data would be lost. I lightened the grid lines and I wanted to make them more spread out but I couldnt figure that out. 
+I wanted to zoom in on US, UK, Canada, Germany and Japan because they have high influence in the world. Also, there are to many countries and they data can be seen above and below. I wanted to also include India and China but the data wasnt available. The data was manipulated to show countries on the y-axis for a better comparison over time. The x-axis shows the years and I thought it was redundant to use the label the axis with the word year. Instead of including a legend, I incorporated the name of the countries on the lines themselves. I chose to highlight US in blue to make it pop out,while using faint colors for the other countries. I wanted to use all grey but then the data would be lost. I lightened the grid lines and I wanted to make them more spread out but I couldnt figure that out. 
 
 ## Florish
 
