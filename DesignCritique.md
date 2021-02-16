@@ -15,7 +15,7 @@
 
 
 ## Redesign 1
-
+![Test Image 3](Redesign1.jfif)
 
 
 [BACK](ReadMe.md)
