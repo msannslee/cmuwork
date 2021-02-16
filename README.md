@@ -26,6 +26,6 @@ Mind the typos, this is what happens whenI dont have spell check.
 
 [Government Debt Data](/govdebt.md)
 
-[Racial Wealth Disparities](kingcountycovid.md)
+[Racial Wealth Disparities](DesignCritique.md)
 
 https://msannslee.github.io/portfolio
