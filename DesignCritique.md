@@ -29,7 +29,7 @@
  
 ## Redesign 2
  
- ![Test Image 4](Wealth Gap.jpg)
+ ![Test Image 4](Wealth.jpg)
  
  
  I will be using this chart in my final project. Therefore the context will be given then. I plan to change the font for more impact, but I need help deciding. The background is black and text is white as a theme throughout the project. Therefore I chose a light grey to represent white people and a rich purple to represent black people. I am intentionally only comparing white v black for a stark contrast and to envoke a shock or anger when people see the chart. One critique mentioned adding a blurb, but instead I changed to title to infuriate people and included a small blurb near the source. I was sure to say that the image is drawn to scale. I used the Visualizing Health tool to gather ideas for how to show drastic comparisons and this is why I decided on the circles. The original circles had a spotlight which I tried to recreate but as mentioned in the critique, the two charts and the lines were confusing. So I dropped them, instead playing with color. Since the visual is drawn to scale, the circle in a circle looked like either a nipple or an eye. I chose to have the visual look like an eye that is pointed towards the numbers. The title is meant to grab attaention. However, the numbers are larger than the title becuase that is where I want the readers eyes to look after seeing this eye. 
