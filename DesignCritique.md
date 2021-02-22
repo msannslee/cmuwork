@@ -26,7 +26,9 @@
    Maybe put the grey bar first and then purple. Bc right now it looks like my attn is trying to connect the purple dot to the grey bar. 
 ##### Critique 3
    So I can tell that the purple graph element and the pruple dot are supposed to represnt the average financial assets of a black households (I'm assuming) relative to the average financial assets to white households. But I am struggling to understand why its both as supposed to one or the other. As far as content, I imagine that the intended audience is anybody doing anything related to financial inequality or generational wealth differences and policy. Things I would change or do differently: if there is no separate function to having the circles, I'd pick one or the other. Adding a blurb to give context to the racial wealth disparities specifically highlighting that its disparities in assets. Give context around why the speculation is for assets because assets is disticnt and usually the focus is on income. 
- 
+##### Critique 4
+The black lines don’t help. If you plan on keeping both the bar graph and circle graph then put the smaller circle near the bottom left of the big circle. Maybe change gray to some other color like light green. Size the headline/title font to fit the size of the whole set of graphs or center. Choose a san serif font with a clean look. Use just one font and use bold for the title and regular for the graph info.
+
 ## Redesign 2
  
  ![Test Image 4](WealthGap.jpg)
