@@ -32,12 +32,12 @@ The project will be completed using a mix between video sequencing, scrolling an
   <ins>Education attained</ins>--Increase cash by investing more in education. Showing the difference in education level will explain  the difference in liquidity. (capital building)
   
 
-<ins>**SOURCES NEEDED:**</ins><br>
-  **Auto interest, Mortgage interest, business loans**--black vs white interest rates to define how one obtains collateral (capital building) <br>
+<ins>***SOURCES NEEDED:***</ins><br>
+  *Auto interest, Mortgage interest, business loans*--black vs white interest rates to define how one obtains collateral (capital building) <br>
   
-  **Investment by type**--black vs white investments to bring it home why collateral is important to invest and how investing grows your cash flow. <br>
+  *Investment by type*--black vs white investments to bring it home why collateral is important to invest and how investing grows your cash flow. <br>
   
-  **Resources**
+  *Resources*
 
 
 
