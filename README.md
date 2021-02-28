@@ -28,4 +28,7 @@ Mind the typos, this is what happens whenI dont have spell check.
 
 [Racial Wealth Disparities](DesignCritique.md)
 
+## My Projects
+[Financial Literacy](/ProjectFinancialLiteracy.md)
+
 https://msannslee.github.io/portfolio
