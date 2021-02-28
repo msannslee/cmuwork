@@ -11,6 +11,7 @@ My project will be focused on the wealth gap between black people and white peop
 
 ## Method and Medium
 The project will be completed using a mix between video sequencing, scrolling and clickable links. Each frame will use as few words as possible instead relying on visualizations. I think this can all be done using shorthand. If not, I am open to recommendations. <br> 
+
  <ins>Frame 1</ins> starts with a catchy bolded title "Black People are disgustingly poor", the starking graph will slide in a video sequencing style and the user asked to click to learn more. <br> 
          
  <ins>Frame 2</ins> is a scrollable page that explains the broken system using pictures to speak the thousands of words; after scrolling the user will be asked to click a link. <br> 
