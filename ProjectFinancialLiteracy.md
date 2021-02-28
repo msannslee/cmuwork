@@ -4,9 +4,9 @@
 
 ## Outline
 My project will be focused on the wealth gap between black people and white people. <br>
-           1.     Grab the user's attention with a stark graph that insights anger.<br>
-          2.     Briefly explain why, focusing on a few elements of the broken system.<br>
-           3.     Instill hope by giving a financial literacy overview on how to build capital.
+         1.     Grab the user's attention with a stark graph that insights anger.<br>
+         2.     Briefly explain why, focusing on a few elements of the broken system.<br>
+         3.     Instill hope by giving a financial literacy overview on how to build capital.
 
 
 
@@ -21,11 +21,11 @@ The project will be completed using a mix between video sequencing, scrolling an
 
 ## Data Sources
 #### [Source Survey of Consumer Finances (SCF)](https://www.federalreserve.gov/econres/scf/dataviz/scf/chart/#range:1989,2019;series:Before_Tax_Income;demographic:all;population:all;units:median) :
-        <ins>Net Worth</ins>--this data will be used as the startling image to display the overwhelming gap between white and black networth. 
+   <ins>Net Worth</ins>--this data will be used as the startling image to display the overwhelming gap between white and black networth. 
   
-         <ins>Income</ins>--this data is one of the building capital process that defines credit using black vs white spending vs income. 
+   <ins>Income</ins>--this data is one of the building capital process that defines credit using black vs white spending vs income. 
   
-        <ins>Debt</ins>--this data is on the same step as income. The idea is to explain debt to income ratio. highlights that black people spend the most, yet earn the least. 
+   <ins>Debt</ins>--this data is on the same step as income. The idea is to explain debt to income ratio. highlights that black people spend the most, yet earn the least. 
   
 
 #### [Census Current Population Survey (CPS)](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.2019.html) : 
@@ -33,11 +33,11 @@ The project will be completed using a mix between video sequencing, scrolling an
   
 
 ***SOURCES NEEDED:***
-  - <ins>Auto interest, Mortgage interest, business loans</ins>--black vs white interest rates to define how one obtains collateral. (capital building) <br>
+  <ins>Auto interest, Mortgage interest, business loans</ins>--black vs white interest rates to define how one obtains collateral. (capital building) <br>
   
-  - <ins>Investment by type</ins>--black vs white investments to bring it home why collateral is important to invest and how investing grows your cash flow. <br>
+  <ins>Investment by type</ins>--black vs white investments to bring it home why collateral is important to invest and how investing grows your cash flow. <br>
   
-  - <ins>Resources</ins>--because I wont have time to teach a full course this is meant to pique curiosity.
+  <ins>Resources</ins>--because this isnt a full course but instead meant to pique curiosity.
 
 
 
