@@ -7,7 +7,7 @@ My project will be focused on the wealth gap between black people and white peop
          1.     Grab the user's attention with a stark graph that insights anger.<br>
          2.     Briefly explain why, focusing on a few elements of the broken system.<br>
          3.     Instill hope by giving a financial literacy overview on how to build capital.
-
+<br><br><br>
 
 
 ## Method and Medium
@@ -17,7 +17,7 @@ The project will be completed using a mix between video sequencing, scrolling an
           <ins>Frame 3</ins> will be another slide show video sequence that transitions from despair to hope; once the video completed the user will be asked to click a link. <br>     <ins>Frame 4</ins> is cyclical process image explaining how to gain capital; the user clicks each step in the process that highlights a definition using black vs white charts and graphs; the idea is the charts will insight the user to want to learn more; each step in the process is greyed out once the user has clicked the link. <br>
                 <ins>Frame 5</ins> is a "wealth of resources". 
 
-
+<br><br><br>
 
 ## Data Sources
 #### [Source Survey of Consumer Finances (SCF)](https://www.federalreserve.gov/econres/scf/dataviz/scf/chart/#range:1989,2019;series:Before_Tax_Income;demographic:all;population:all;units:median) :
@@ -27,11 +27,11 @@ The project will be completed using a mix between video sequencing, scrolling an
   
    <ins>Debt</ins>--this data is on the same step as income. The idea is to explain debt to income ratio. highlights that black people spend the most, yet earn the least. 
   
-
+<br>
 #### [Census Current Population Survey (CPS)](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.2019.html) : 
   <ins>Education attained</ins>--Increase cash by investing more in education. Showing the difference in education level will explain  the difference in liquidity. (capital building)
   
-
+<br>
 ***SOURCES NEEDED:***<br>
   <ins>Auto interest, Mortgage interest, business loans</ins>--black vs white interest rates to define how one obtains collateral. (capital building) <br>
   
@@ -39,7 +39,7 @@ The project will be completed using a mix between video sequencing, scrolling an
   
   <ins>Resources</ins>--because this isnt a full course but instead meant to pique curiosity.
 
-
+<br><br><br>
 
 ## Sketches
 
