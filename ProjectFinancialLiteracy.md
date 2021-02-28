@@ -16,21 +16,17 @@ The project will be completed using a mix between video sequencing, scrolling an
 
 
 ## Data Sources
-#### Source Survey of Consumer Finances (SCF) :
+#### [Source Survey of Consumer Finances (SCF)](https://www.federalreserve.gov/econres/scf/dataviz/scf/chart/#range:1989,2019;series:Before_Tax_Income;demographic:all;population:all;units:median) :
   Net Worth--this data will be used as the startling image to display the overwhelming gap between white and black networth. 
   
   Income--this data is one of the building capital process that defines credit using black vs white spending vs income. 
   
   Debt--this data is on the same step as income. The idea is to explain debt to income ratio. highlights that black people spend the most, yet earn the least. 
   
-[](https://www.federalreserve.gov/econres/scf/dataviz/scf/chart/#range:1989,2019;series:Before_Tax_Income;demographic:all;population:all;units:median)
 
-
-#### Census Current Population Survey (CPS) : 
+#### [Census Current Population Survey (CPS)](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.2019.html) : 
   Education attained--Increase cash by investing more in education. Showing the difference in education level will explain  the difference in liquidity. (capital building)
   
-[](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.2019.html)
-
 
 #### SOURCE NEEDED:
   Auto interest, Mortgage interest, business loans--black vs white interest rates to define how one obtains collateral (capital building)
