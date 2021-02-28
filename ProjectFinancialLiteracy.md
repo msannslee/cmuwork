@@ -36,7 +36,7 @@ The project will be completed using a mix between video sequencing, scrolling an
   
   <ins>Resources</ins>--because this isnt a full course but instead meant to pique curiosity.
 
-<br><br>
+<br>
 ## Sketches
 
 #### Hand drawn Wire Frame
