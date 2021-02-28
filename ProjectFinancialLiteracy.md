@@ -4,17 +4,17 @@
 
 ## Outline
 My project will be focused on the wealth gap between black people and white people. <br>
-    1.     Grab the user's attention with a stark graph that insights anger.<br>
-    2.     Briefly explain why, focusing on a few elements of the broken system.<br>
-    3.     Instill hope by giving a financial literacy overview on how to build capital.
+        1.     Grab the user's attention with a stark graph that insights anger.<br>
+        2.     Briefly explain why, focusing on a few elements of the broken system.<br>
+        3.     Instill hope by giving a financial literacy overview on how to build capital.
 
 
 
 ## Method and Medium
 The project will be completed using a mix between video sequencing, scrolling and clickable links. Each frame will use as few words as possible instead relying on visualizations. I think this can all be done using shorthand. If not, I am open to recommendations. <br> 
-<ins>Frame 1</ins> starts with a catchy bolded title "Black People are disgustingly poor", the starking graph will slide in a video sequencing style and the user asked to click to learn more. <br> 
-<ins>Frame 2</ins> is a scrollable page that explains the broken system using pictures to speak the thousands of words; after scrolling the user will be asked to click a link. <br> 
-<ins>Frame 3</ins> will be another slide show video sequence that transitions from despair to hope; once the video completed the user will be asked to click a link. <br> <ins>Frame 4</ins> is cyclical process image explaining how to gain capital; the user clicks each step in the process that highlights a definition using black vs white charts and graphs; the idea is the charts will insight the user to want to learn more; each step in the process is greyed out once the user has clicked the link. <br>
+    <ins>Frame 1</ins> starts with a catchy bolded title "Black People are disgustingly poor", the starking graph will slide in a video sequencing style and the user asked to click to learn more. <br> 
+    <ins>Frame 2</ins> is a scrollable page that explains the broken system using pictures to speak the thousands of words; after scrolling the user will be asked to click a link. <br> 
+    <ins>Frame 3</ins> will be another slide show video sequence that transitions from despair to hope; once the video completed the user will be asked to click a link. <br>   <ins>Frame 4</ins> is cyclical process image explaining how to gain capital; the user clicks each step in the process that highlights a definition using black vs white charts and graphs; the idea is the charts will insight the user to want to learn more; each step in the process is greyed out once the user has clicked the link. <br>
 <ins>Frame 5</ins> is a "wealth of resources". 
 
 
