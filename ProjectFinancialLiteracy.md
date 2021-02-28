@@ -31,7 +31,7 @@ The project will be completed using a mix between video sequencing, scrolling an
 <br>
 ***SOURCES NEEDED:***<br>
   <ins>Auto & Mortgage interest</ins>--black vs white interest rates to define how one obtains collateral. (capital building) <br>
-  <ins>business loans<ins/>--black vs white either businesses owned or business loan rates. Again to explain collateral.<br>
+  <ins>business loans</ins>--black vs white either businesses owned or business loan rates. Again to explain collateral.<br>
   <ins>Investment by type</ins>--black vs white investments to bring it home why collateral is important to invest and how investing grows your cash flow. <br>
   <ins>Resources</ins>--because this isnt a full course but instead meant to pique curiosity.
 
