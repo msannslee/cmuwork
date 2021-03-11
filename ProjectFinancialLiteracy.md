@@ -10,7 +10,7 @@ My project will be focused on the wealth gap between black people and white peop
 <br><br>
 
 ## [Draft](https://preview.shorthand.com/heZYAiJ6IRXF9ffT)
-<br><br>
+
 
 ## Method and Medium
 The project will be completed using a mix between video sequencing, scrolling and clickable links. Each frame will use as few words as possible instead relying on visualizations. I think this can all be done using shorthand. If not, I am open to recommendations. <br> 
