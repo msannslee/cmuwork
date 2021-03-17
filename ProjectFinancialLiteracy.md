@@ -1,7 +1,12 @@
 
 
 # Project Financial Literacy
+## [Project Capital Building](https://preview.shorthand.com/heZYAiJ6IRXF9ffT)
+<br><br>
 
+
+
+<br>
 ## Outline
 My project will be focused on the wealth gap between black people and white people. <br>
          1.     Grab the user's attention with a stark graph that insights anger.<br>
@@ -9,7 +14,7 @@ My project will be focused on the wealth gap between black people and white peop
          3.     Instill hope by giving a financial literacy overview on how to build capital.
 <br><br>
 
-## [Draft](https://preview.shorthand.com/heZYAiJ6IRXF9ffT)
+
 <br>
 
 ## Method and Medium
