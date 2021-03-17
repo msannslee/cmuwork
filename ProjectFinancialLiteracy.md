@@ -5,7 +5,6 @@
 <br><br>
 
 
-
 <br>
 ## Outline
 My project will be focused on the wealth gap between black people and white people. <br>
@@ -46,10 +45,15 @@ The project will be completed using a mix between video sequencing, scrolling an
 #### [Census Current Population Survey (CPS)](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.2019.html) : 
   <ins>Education attained</ins>--Increase cash by investing more in education. Showing the difference in education level will explain  the difference in liquidity. (capital building)
   
- 
+ ### Photos
+   [https://unsplash.com/](https://unsplash.com/)
+   [https://thenounproject.com/](https://thenounproject.com/)
+ ### Resources
+   [https://www.fii.org/](https://www.fii.org/)
+   [https://everfi.com/financial-education/](https://everfi.com/financial-education/)
+   [https://www.neighborworks.org/Homes-Finances](https://www.neighborworks.org/Homes-Finances)
 <br>
-***SOURCES NEEDED:***<br>
-  <ins>Resources</ins>--because this isnt a full course but instead meant to pique curiosity.
+
 
 <br>
 ## Sketches
@@ -93,6 +97,11 @@ Planned changes: I canged the wording around to focus more on the choices made b
 Planned changes: Rethink the assets by type graph. Include by household and year and title and legend for every graph to understand context. Consider having a stronger outcome/call to action. 
 
 
+
+
+
+## Final Thoughts
+ I was FINALLY able to change the first chart to be drawn to scale. My narrative flows and is meant to be persuasive. I have included some resources as part of my call to action and next steps. However, I plan to build the site out more, ask for more feedback and reiterate. My goal is to use this as part of a project for another class where I design an entire social process. I plan to do a simple difference test to measure the overall effectiveness. I plan to make the project more actionable, but I am not sure yet. So stay tuned.  
 
 [BACK](/README.md)
 
