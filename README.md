@@ -1,5 +1,7 @@
 #  Mika's Portfolio
 
+# [ WHO AM I ](https://preview.shorthand.com/9SNR0JHo1ENuFxSt)
+
 ## My Covid Story
   Hello. my name is Shameika but Mika is easier to prounouce for most people. Although people often call me Micah. I think that is better than people staring at my name and not trying to say it at all. I am currently a student at Carnegie Mellon Univeristy studying for my Masters of Science in Public Policy Management. During the pandemic, I reduced my hours to part-time. As with everyone else the effects of the pandemic have been life shattering.  
 
